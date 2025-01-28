@@ -71,6 +71,8 @@ pip install -r requirements.txt
 ## Screenshots
 
 ![Screenshot of the application](static/images/Screenshot.png)
+![Screenshot of the application](static/images/Screenshot2.png)
+![Screenshot of the application](static/images/Screenshot3.png)
 
 ## License
 
@@ -87,7 +89,7 @@ Contributions are welcome! Feel free to submit a pull request or report issues.
 ## Developed By
 
 **Anand Velpuri**  
-[GitHub](https://github.com/anandvelpuri)  
+[GitHub](https://github.com/Anand-Velpuri)  
 [Email](mailto:velpurianand8005@gmail.com)
 
 ```
