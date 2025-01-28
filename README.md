@@ -1,4 +1,3 @@
-````markdown
 # URL Masker
 
 A simple Flask-based web application that allows users to mask URLs by combining custom domains and phishing keywords. This tool is designed for educational purposes and should be used responsibly.
@@ -13,11 +12,11 @@ A simple Flask-based web application that allows users to mask URLs by combining
 ## Installation
 
 1. **Clone the Repository**:
+
    ```bash
    git clone https://github.com/anandvelpuri/url-masker.git
    cd url-masker
    ```
-````
 
 2. **Create and Activate a Virtual Environment**:
    ```bash
@@ -71,7 +70,7 @@ pip install -r requirements.txt
 
 ## Screenshots
 
-![Screenshot of the application](static/images/screenshot.png)
+![Screenshot of the application](static/images/Screenshot.png)
 
 ## License
 
@@ -89,7 +88,7 @@ Contributions are welcome! Feel free to submit a pull request or report issues.
 
 **Anand Velpuri**  
 [GitHub](https://github.com/anandvelpuri)  
-[Email](mailto:anandvelpuri@example.com)
+[Email](mailto:velpurianand8005@gmail.com)
 
 ```
 
