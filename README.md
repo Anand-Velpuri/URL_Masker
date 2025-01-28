@@ -1,5 +1,3 @@
-Here’s the complete `README.md` in a single block for easy copying:
-
 ````markdown
 # URL Masker
 
